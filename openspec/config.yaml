@@ -1,0 +1,8 @@
+schema: spec-driven
+
+context: |
+  Project: Taskly - a tiny in-memory task manager used to demonstrate OpenSpec.
+  Tech stack: Node.js (no dependencies), single-file app in app.js, in-memory store.
+  Domain: personal task tracking. Three capabilities: tasks, users, notifications.
+  This project exists to show the OpenSpec change -> spec workflow, so specs are
+  the source of truth and app.js is a minimal reference implementation.
